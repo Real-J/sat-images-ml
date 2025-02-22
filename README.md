@@ -145,8 +145,9 @@ async def predict(file: UploadFile = File(...)):
 ----
 
 #### Graphs:
-![spline bottle](bottle.PNG)
+![Graph](G_1.PNG)
 
+![Graph](G_2.PNG)
 
 ---
 
