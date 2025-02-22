@@ -142,6 +142,11 @@ async def predict(file: UploadFile = File(...)):
 
 # Run API: `uvicorn app:app --reload`
 ```
+----
+
+#### Graphs:
+![spline bottle](bottle.PNG)
+
 
 ---
 
